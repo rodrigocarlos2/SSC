@@ -4,7 +4,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.weberish.getmycoords"
+        id        = "com.rodrigo.puzzle"
         version   = "1.0.0">
 
     <name> Puzzle </name>
@@ -14,9 +14,7 @@
     </description>
 
     <author href="https://www.facebook.com/rodrigo.carlos.33046" email="rodrigo.trabalhos.ufpi@gmail.com">
-        Rodrigo Carlos
-        Ricardo Bruno
-        Francisco Ramon
+        Rodrigo
     </author>
 
     <preference name="permissions"                value="none"/>
