@@ -14,7 +14,7 @@
     </description>
 
     <author href="https://www.facebook.com/rodrigo.carlos.33046" email="rodrigo.trabalhos.ufpi@gmail.com">
-        Rodrigo
+        rodrigo
     </author>
 
     <preference name="permissions"                value="none"/>
@@ -46,10 +46,6 @@
         src in the following setting to "res/icon.png" -->
     
     <icon src="icon.png" />
-
-    <!-- Define app splash screen for each platform. -->
-
-
 
     <access />
 
