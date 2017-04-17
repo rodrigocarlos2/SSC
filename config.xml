@@ -24,6 +24,10 @@
    <preference name="fullscreen" value="true"/>
    <gap:platform name="android"/>
 
+   <content src="index.html" />
+
+   <access origin="*" />
+
    <plugin name="cordova-plugin-splashscreen" />
 
 </widget>
