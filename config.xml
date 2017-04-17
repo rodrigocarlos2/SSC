@@ -21,7 +21,7 @@
 
    <preference name="orientation" value="portrait"/>
    <preference name="fullscreen" value="true"/>
-   <gap:plataform name="android"/>
+   <gap:platform name="android"/>
 
    <plugin name="cordova-plugin-splashscreen" />
 
