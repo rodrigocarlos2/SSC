@@ -47,10 +47,7 @@
         For e.g. if you place an icon.png inside res folder, you should modify the
         src in the following setting to "res/icon.png" -->
     
-    <!--
     <icon src="icon.png" />
-    Insert Icon Here.
-	-->
 
     <!-- Define app splash screen for each platform. -->
 
